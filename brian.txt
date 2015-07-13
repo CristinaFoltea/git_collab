@@ -1,10 +1,8 @@
 hi there!
 Swell! what a lovely Monday.
-<<<<<<< HEAD
 FUN
 MOAR FUN
 BALL PIT FUN
-=======
 
- make some changes 
->>>>>>> 1da7486ba57015d1ecf25a225b6535c06943cb7e
+
+ make some changes
